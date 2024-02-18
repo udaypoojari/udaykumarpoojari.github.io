@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "UDAY KUMAR POOJARI"
 title_separator          : "-"
-name                     : &name "UDAY KUMAR POOJARI"
-description              : &description "Softare Developer with handsful product development experience in Automotive Domain"
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "udaypoojari/udaykumarpoojari.github.io"
@@ -21,13 +21,13 @@ repository               : "udaypoojari/udaykumarpoojari.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "UDAY KUMAR POOJARI"
+  name             : "UDAY KUMAR POOJARI
   pronouns         : # example: "she/her"  
-  bio              : "Softare Developer with handsful product development experience in Automotive Domain"
-  location         : "Farmington, Michigan"
-  employer         : "Altair Product Design Inc"
+  bio              : "Software developer with handsful product development experience in Automotive domain"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "udaykumar405@gmail.com" 
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
