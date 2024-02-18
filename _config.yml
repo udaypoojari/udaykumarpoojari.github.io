@@ -11,7 +11,7 @@ title                    : "UDAY KUMAR POOJARI"
 title_separator          : "-"
 name                     : &name "UDAY KUMAR POOJARI"
 description              : &description "Softare Developer with handsful product development experience in Automotive Domain"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://udaypoojari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "udaypoojari/udaykumarpoojari.github.io"
 
@@ -21,21 +21,15 @@ repository               : "udaypoojari/udaykumarpoojari.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "UDAY KUMAR POOJARI"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Softare Developer with handsful product development experience in Automotive Domain"
+  location         : "Farmington, Michigan"
+  employer         : "Altair Product Design Inc"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "udaykumar405@gmail.com" 
 
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
